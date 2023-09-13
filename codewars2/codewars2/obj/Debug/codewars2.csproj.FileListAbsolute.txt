@@ -1,0 +1,8 @@
+D:\project\Calendar\codewars2\codewars2\bin\Debug\codewars2.exe.config
+D:\project\Calendar\codewars2\codewars2\bin\Debug\codewars2.exe
+D:\project\Calendar\codewars2\codewars2\bin\Debug\codewars2.pdb
+D:\project\Calendar\codewars2\codewars2\obj\Debug\codewars2.csproj.AssemblyReference.cache
+D:\project\Calendar\codewars2\codewars2\obj\Debug\codewars2.csproj.SuggestedBindingRedirects.cache
+D:\project\Calendar\codewars2\codewars2\obj\Debug\codewars2.csproj.CoreCompileInputs.cache
+D:\project\Calendar\codewars2\codewars2\obj\Debug\codewars2.exe
+D:\project\Calendar\codewars2\codewars2\obj\Debug\codewars2.pdb
